@@ -1,8 +1,8 @@
 ### Hi there 👋
 Welcome to my Github page! 😄
 
-- 🛠 I'm currently working on Darkwell-Valley game in Unity as a side project.
-- 🌱 As a Junior Game Developer, I am working in Unreal Engine 5 at Netscale Agency.
+- 🛠 I'm currently working on Astro-Arena game project for my University, alongside Antonio Gorišek.
+- 🌱 No work experience yet; looking for a job!
 - 💻 I have experience in other technologies and programmming languages: web-developmemt (CSS, HTML, Javascript),
  Python, Java, C, C++, C#, Microcontrollers (Arduino IDE) ...
 - 🔎 Take a look around!
