@@ -1,8 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page! 😄
 
-- 👯 Try out my recent project Astro Arena, made in collaboration with Antonio Gorišek. Tip: its more fun when more people are playing it!
-https://platno.itch.io/astro-arena
+- 👯 Finished a big project called Astro Arena in collaboration with Antonio Gorišek!
 - 🌱 No work experience yet; looking for a job!
 - 💻 I have experience in other technologies and programmming languages: web-developmemt (CSS, HTML, Javascript),
  Python, Java, C, C++, C#, Microcontrollers (Arduino IDE) ...
