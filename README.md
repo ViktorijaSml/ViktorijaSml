@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page! 😄
 
-- 👯 Finished a big project called Astro Arena in collaboration with Antonio Gorišek!
+- 👯 Finished a big project called Astro Arena in collaboration with Antonio Gorišek! https://www.youtube.com/watch?v=yggs0iJzYsg&t=1s
 - 🌱 No work experience yet; looking for a job!
 - 💻 I have experience in other technologies and programmming languages: web-developmemt (CSS, HTML, Javascript),
  Python, Java, C, C++, C#, Microcontrollers (Arduino IDE) ...
