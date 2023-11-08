@@ -3,8 +3,9 @@ Welcome to my Github page! 😄
 
 - 👯 Finished a big project called Astro Arena in collaboration with Antonio Gorišek! https://www.youtube.com/watch?v=yggs0iJzYsg&t=1s
 - 🌱 No work experience yet; looking for a job!
+- 🛠️  Working on ASP.NET and C# skills (Udemy, internships...)
 - 💻 I have experience in other technologies and programmming languages: web-developmemt (CSS, HTML, Javascript),
- Python, Java, C, C++, C#, Microcontrollers (Arduino IDE) ...
+ Python, Java, C++, Microcontrollers (Arduino IDE) ...
 - 🔎 Take a look around!
 
 📫 You can reach me using:
