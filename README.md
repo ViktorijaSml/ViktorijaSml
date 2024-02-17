@@ -11,7 +11,7 @@ Welcome to my Github page! 😄
 📫 You can reach me using:
 - LinkedIn: https://www.linkedin.com/in/vsmlatic 
 - Mail: smlaticviktorija@gmail.com
-[Viktorija_Smlatić_CV_eng.pdf](https://github.com/ViktorijaSml/ViktorijaSml/files/14318932/Viktorija_Smlatic_CV_eng.pdf)
+- CV: [Viktorija_Smlatić_CV_eng.pdf](https://github.com/ViktorijaSml/ViktorijaSml/files/14318932/Viktorija_Smlatic_CV_eng.pdf)
 
 Have a wonderfull day! 😁✨
 <!--
