@@ -6,8 +6,9 @@ Welcome to my Github page! 😄
 - 🛠️ Working on ASP.NET and C# skills (Udemy, internships...)
 - 💻 I have experience in other technologies and programmming languages: web-developmemt (CSS, HTML, Javascript),
  Python, Java, C++, Microcontrollers (Arduino IDE) ...
-- 📃 Check out my CV: [Viktorija_Smlatić_CV_eng.pdf](https://github.com/ViktorijaSml/ViktorijaSml/files/14318932/Viktorija_Smlatic_CV_eng.pdf)
-
+<!--
+- 📃 Check out my CV: 
+-->
 - 🔎 Take a look around!
 
 📫 You can reach me using:
